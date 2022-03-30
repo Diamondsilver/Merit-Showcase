@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Merit-Showcase/static/css/main.e6c13ad2.css",
+    "main.js": "/Merit-Showcase/static/js/main.2aa8f212.js",
+    "static/js/787.6fdfeabf.chunk.js": "/Merit-Showcase/static/js/787.6fdfeabf.chunk.js",
+    "index.html": "/Merit-Showcase/index.html",
+    "main.e6c13ad2.css.map": "/Merit-Showcase/static/css/main.e6c13ad2.css.map",
+    "main.2aa8f212.js.map": "/Merit-Showcase/static/js/main.2aa8f212.js.map",
+    "787.6fdfeabf.chunk.js.map": "/Merit-Showcase/static/js/787.6fdfeabf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2aa8f212.js"
+  ]
+}
